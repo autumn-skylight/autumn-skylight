@@ -1,12 +1,36 @@
-### Hi there 👋 My name is hannah,
-welcome to my Github page
+# Hi there! 👋 I'm Hannah
 
-## About me
-I am 25 years old, I am a transgender female, and a young carer
-<br>
-my Pronouns are she/her 
+Welcome to my GitHub profile!
 
-## what i am working on
-🔭 Adventures at pride website and GitQuest a brand new YouTube channel coming soon
-## intresting fact
- I am in a short film on youtube about life as a young carer in schools. 
+---
+
+### 🙋‍♀️ About Me
+
+* 💖 **Pronouns:** she/her
+* 🌟 **Background:** Transgender woman & passionate young carer
+
+---
+
+### 💻 Tech & Skills
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 🛠️ What I'm Working On
+
+* 🌈 **Adventures at Pride** — A personal blog sharing my ongoing journey, experiences, and community adventures
+* 🎬 **GitQuest** — A brand-new YouTube channel focusing on tech and projects *(Coming soon!)*
+
+---
+
+### 💡 Interesting Fact
+
+* 🎥 I featured in a short film on YouTube highlighting the experiences and everyday life of young carers in schools.
+
+---
+
+### 📫 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=autumn-skylight&show_icons=true&theme=dark)
